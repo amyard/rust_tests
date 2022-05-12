@@ -11,3 +11,6 @@ fn main() {
 // cargo new new_project   -   create new project
 // cargo build   -   build the project
 // .\target\debug\new_project    -   run project
+
+
+// cargo run   -   run the project to check if all is working.
